@@ -1,0 +1,18 @@
+[{
+    "codevuelo": 1,
+    "codigoruta": " ",
+    "estado": "en espera",
+    "codeavion": "en espera",
+    "fechasalida": " ",
+    "fechallegada": " "
+
+  },{
+    "codevuelo": 2,
+    "nombre": "Ana González",
+    "clases": [
+      { "code": "PHY21", "class": "Física I", "section": "B-D", "status": true ,"date": "YY-MM-DD"},
+      { "code": "PHY22", "class": "Física II", "section": "A-C", "status": true,"date": "YY-MM-DD" }
+    ]
+  }
+  
+  ]
